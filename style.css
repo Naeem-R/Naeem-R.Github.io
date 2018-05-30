@@ -1,0 +1,39 @@
+body{
+	background-color: aqua;
+	padding: 50px
+
+}
+
+h1 {
+	color: black;
+	font-family: serif;
+}
+
+h2{
+	color: black;
+	font-family: serif;
+}
+
+h3{
+	color: black;
+	font-family: serif;
+}
+li {
+	color: purple;
+	font-family: sans-serif;
+}
+
+p {
+	color: orange;
+}
+
+#pic1 {
+	width: 250px;
+	position: absolute;
+	right: 0;
+}
+
+#pic2 {
+	width: 250px
+	
+}
