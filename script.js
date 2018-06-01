@@ -30,6 +30,11 @@ if (name === "ash") {
 }
 
 
+for (var i = 0; i < 5; i++) {
+	console.log(i);
+}
+
+
 });
 
 function checkPassword(){
